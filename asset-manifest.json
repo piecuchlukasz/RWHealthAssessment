@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RWHealthAssessment/static/css/main.8707f18b.css",
-    "main.js": "/RWHealthAssessment/static/js/main.afd8e077.js",
+    "main.css": "/RWHealthAssessment/static/css/main.269ec13b.css",
+    "main.js": "/RWHealthAssessment/static/js/main.1b4d5c8e.js",
     "static/media/side_picture.png": "/RWHealthAssessment/static/media/side_picture.3732d7d18d55a9fef881.png",
     "static/media/RWH-LOGO-FINVWEB3.png": "/RWHealthAssessment/static/media/RWH-LOGO-FINVWEB3.14e0e096f2d29815d8a7.png",
     "index.html": "/RWHealthAssessment/index.html",
-    "main.8707f18b.css.map": "/RWHealthAssessment/static/css/main.8707f18b.css.map",
-    "main.afd8e077.js.map": "/RWHealthAssessment/static/js/main.afd8e077.js.map"
+    "main.269ec13b.css.map": "/RWHealthAssessment/static/css/main.269ec13b.css.map",
+    "main.1b4d5c8e.js.map": "/RWHealthAssessment/static/js/main.1b4d5c8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8707f18b.css",
-    "static/js/main.afd8e077.js"
+    "static/css/main.269ec13b.css",
+    "static/js/main.1b4d5c8e.js"
   ]
 }
